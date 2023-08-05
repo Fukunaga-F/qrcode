@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+   
+}
+
+.main {
+   background-color: hsl(0, 0%, 100%);
+   border-radius: 15px;
+   width: 250px;
+   height: 400px;
+   margin: 150PX 250PX;
+   
+  
+
+
+}
+
+.imagem {
+    border-radius: 10px;
+    block-size: 222px;
+    margin: 14px;
+    margin-bottom: 0;
+}
+
+p{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Outfit', sem serifa;
+
+}
+
+.projects {
+  font-weight: bold;
+  color: hsl(218, 44%, 22%);
+}
+
+.scan {
+    font-size: 12px;
+    color:hsl(220, 15%, 55%) ;
+}
+    
